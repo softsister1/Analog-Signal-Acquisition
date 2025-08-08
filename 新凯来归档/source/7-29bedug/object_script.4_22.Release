@@ -1,0 +1,13 @@
+release/dataprocessor.o
+release/debugdialog.o
+release/main.o
+release/mainwindow.o
+release/protocolhandler.o
+release/qcustomplot.o
+release/usbcommunication.o
+release/moc_dataprocessor.o
+release/moc_debugdialog.o
+release/moc_mainwindow.o
+release/moc_protocolhandler.o
+release/moc_qcustomplot.o
+release/moc_usbcommunication.o

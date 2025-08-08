@@ -1,0 +1,13 @@
+debug/dataprocessor.o
+debug/debugdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/protocolhandler.o
+debug/qcustomplot.o
+debug/usbcommunication.o
+debug/moc_dataprocessor.o
+debug/moc_debugdialog.o
+debug/moc_mainwindow.o
+debug/moc_protocolhandler.o
+debug/moc_qcustomplot.o
+debug/moc_usbcommunication.o
