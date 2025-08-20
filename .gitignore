@@ -1,0 +1,83 @@
+# Qt 编译输出文件
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# Qt 构建目录
+build*/
+debug/
+release/
+Debug/
+Release/
+x64/
+Win32/
+
+# Qt 项目文件
+*.pro.user*
+*.autosave
+*.user
+.qmake.stash
+
+# Qt 生成的文件
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+
+# Visual Studio 文件
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.pro.user*
+.vs/
+
+# 临时文件
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# 日志文件
+*.log
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux 系统文件
+*~
+
+
+# 大型数据文件
+*.csv
+*.xlsx
+*.dat
+
+# 自定义忽略
+# 添加你项目特有的需要忽略的文件或目录
